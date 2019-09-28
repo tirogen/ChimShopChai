@@ -3,7 +3,6 @@ const puppeteer = require('puppeteer');
 (async () => {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
-    await page.goto('https://regist.xn--b3caa1e2a7e2b0h2be.com/Register/');
     let data = "";
     do{
         await page.goto('https://regist.xn--b3caa1e2a7e2b0h2be.com/Register/');
