@@ -1,5 +1,5 @@
 # Chim Shop Chai
- โปรเจครีเฟชรเว็บชิมช้อปใช้
+ โปรเจครีเฟชรชว็บชิมช้อปใช้ แก้ปัญหาลงทะเบียนไม่ได้
 
 ## ปัญหา
  กดลงทะเบียนไม่ได้สักที
@@ -7,11 +7,11 @@
  > You are currently waiting for the registration queue Please try again later.
  
 ## ทางแก้
- - clone repository
- - npm install
- - npm run start
- - รอโปรแกรมรีเฟชรด้วยความเร็วแสง จากการทดลอง รอไม่เกิน 4 วิ
- - เย้
+ 1. clone repository
+ 2. npm install
+ 3. npm run start
+ 4. รอโปรแกรมรีเฟรชด้วยความเร็วแสง จากการทดลอง รอไม่เกิน 4 วิ
+ 5. เย้
 
 ###### สิ่งที่ต้องเตรียม
  - https://nodejs.org/en/
